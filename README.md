@@ -24,6 +24,8 @@ Seu desafio é criar um app usando react-native e uma página usando react simul
 - Utilizar Redux para organização, persistência e registro de estado dos apps.
 - ESLint como linter para validação do código.
 
+Dica: indicamos usar o Firebase como banco de dados para não precisar se preocupar com apis, mas fique a vontade para criar a solução quer achar mais rápida, incluindo escrever em arquivos locais ou remotos - não estamos focando no backend neste desafio.
+
 Qualquer tecnologia adicional ou alternativa que achar necessário, fique a vontade para sugerir :)
 
 ## O que esperamos e o que vamos avaliar
