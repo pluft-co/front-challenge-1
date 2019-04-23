@@ -23,6 +23,7 @@ Seu desafio é criar um app usando react-native e uma página usando react simul
 - Expo e create-react-app são fortemente incentivados.
 - Utilizar Redux para organização, persistência e registro de estado dos apps.
 - ESLint como linter para validação do código.
+
 Qualquer tecnologia adicional ou alternativa que achar necessário, fique a vontade para sugerir :)
 
 ## O que esperamos e o que vamos avaliar
