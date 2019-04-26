@@ -4,10 +4,6 @@ A Pluft é uma plataforma de digitalização de varejo com a missão zerar a fri
 
 Seu desafio é criar um app usando react-native e uma página usando react simulando o fluxo de compra de um comprador / lojista em um restaurante.
 
-## Antes de começar a codar
-
-**Estamos focando no Front-End**: Indicamos usar o Firebase como banco de dados para não precisar se preocupar com APIs, mas fique a vontade para criar a solução quer achar mais rápida, incluindo escrever em arquivos locais ou remotos - não estamos focando no backend neste desafio.
-
 ## Fluxo comprador
 
 1. O comprador acessa o app (não é obrigatório codar a autenticação)
@@ -21,6 +17,10 @@ Seu desafio é criar um app usando react-native e uma página usando react simul
 1. O lojista acessa a aplicação web
 2. Recebe os pedidos do comprador
 3. Marca os pedidos do comprador como prontos
+
+## Antes de começar a codar
+
+**Estamos focando no Front-End**: Indicamos usar o Firebase como banco de dados para não precisar se preocupar com APIs, mas fique a vontade para criar a solução quer achar mais rápida, incluindo escrever em arquivos locais ou remotos - não estamos focando no backend neste desafio.
 
 ## Tecnologias sugeridas
 
