@@ -32,7 +32,8 @@ Qualquer tecnologia adicional ou alternativa que achar necessário, fique a vont
 
 ## O que esperamos e o que vamos avaliar
 
-Estamos interessados mais na estruturação do código, componentização e fluxos propostos que no layout em si.
+Estamos interessados na estruturação do código, componentização,  fluxos propostos.
+Não esperamos um layout campeão, mas esperamos um básico bem organizado.
 
 ## Entrega
 
